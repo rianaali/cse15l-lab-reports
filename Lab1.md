@@ -4,8 +4,8 @@ Before completing the steps below, make sure you have your login information. (y
 2. Once installed, keep settings as is. You should see something like this:
 3. ![Image](lab1screen1.png)
 4. To remotely connect you will need to open a command terminal in VS code (not your computer's terminal). If you are on Windows, you will need to download Git before this.
-5. To open a terminal, use the keyport shortcut Ctrl + "`" OR COMMAND "`". 
-6. Type the below command and enter into the terminal, where "zz" is replaced to your specific account username.
+5. To open a terminal, use either keyport shortcut: "Ctrl + \`" OR "Command + \`". 
+7. Type the below command and enter into the terminal, where "zz" is replaced to your specific account username.
   ssh cs15lwi23zz@ieng6.ucsd.edu 
 7. Your computer will likely ask "Are you sure you want to continue connecting (yes/no/[fingerprint])?". Type yes and enter.
 8. You will now be prompted for a password. Type it in the terminal, but note you will not be able to see it visually on your screen but it will be recorded. Tip: simply copy and paste it into the command line.
