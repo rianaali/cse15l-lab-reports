@@ -49,7 +49,7 @@ class StringServer {
 ### Below are two examples of using /add-message in StringServer
 
 This adds the message "hello!" onto previous messages.
-![Image](lab2screen2.png)
+![Image](labscreen2.png)
 The handleRequest() method is called. The method takes in the url in the method's URI url parameter: "http://localhost:4000/add-message?s=hello!". 
 The "add-message" part of the parameter helps identify the request, and s= parameter is the message. In StringServer, there is a field called message 
 of type String, keeps track of all the messages. Before any requests are called, message is equal to "". 
