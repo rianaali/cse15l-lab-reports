@@ -1,6 +1,6 @@
-#Lab 2 Report
-##Part 1
-###Below is the code for StringServer
+# Lab 2 Report
+## Part 1
+### Below is the code for StringServer
 
 ```
 import java.io.IOException;
@@ -46,7 +46,7 @@ class StringServer {
 }
 ```
 
-###Below are two examples of using /add-message in StringServer
+### Below are two examples of using /add-message in StringServer
 
 This adds the message "hello!" onto previous messages.
 ![Image](lab2screen2.png)
@@ -69,7 +69,7 @@ bur
 hello!"
 
 
-###This shows the result of inputting a blank  message.
+### This shows the result of inputting a blank  message.
 ![Image](lab2screen3.png)
 In this example, the handleRequest() method is also called. The method takes in the url in the method's URI url parameter: "http://localhost:4000/add-message?s=hello!".
 The method takes in the url in the method's URI url parameter: "http://localhost:4000/add-message?s=  ". 
@@ -82,8 +82,8 @@ bur
 2432bfervg
 hello!"
 
-##Part 2
-###Below is the failure inducing input for the bug I chose in Lab3.
+## Part 2
+### Below is the failure inducing input for the bug I chose in Lab3.
 ```
 @Test
   public void testReversed() {
@@ -91,7 +91,7 @@ hello!"
     assertArrayEquals(new int[]{4, 3, 2, 1}, ArrayExamples.reversed(input1));
   }
 ```
-###Below is the input that doesn't induce a failure for the bug I chose in Lab3.
+### Below is the input that doesn't induce a failure for the bug I chose in Lab3.
 ```
 public void testReversed() {
     int[] input1 = {4};
@@ -99,13 +99,13 @@ public void testReversed() {
   }
 ```
 
-###The symptom, with the test {1, 2, 3, 4}:
+### The symptom, with the test {1, 2, 3, 4}:
 ![Image](lab2screen5.png)
 
-###Output with the test {0}, which doesn't fail the test:
+### Output with the test {0}, which doesn't fail the test:
 ![Image](lab2screen4.png)
 
-###Original code with Bug:
+### Original code with Bug:
 ```
  static int[] reversed(int[] arr) {
     int[] newArray = new int[arr.length];
@@ -116,7 +116,7 @@ public void testReversed() {
   }
 ```
 
-###Fixed code without bug:
+### Fixed code without bug:
 ```
 static int[] reversed(int[] arr) {
     int[] newArray = new int[arr.length];
@@ -132,7 +132,7 @@ then return it. The fixed code now iterates through arr in reverse and saves it 
 
 
 
-##Part 3
+## Part 3
 I had no idea testing frameworks like JUnit existed before I participated in lab3. I thought testing always had to be done with methods like a debugger or manually debugging
 through print statements. In the lab I specifically learned the code I could write if I ever wanted to run tests on a program I've wrote. After importing 
 "import static org.junit.Assert.*" and "import org.junit.*;", I can write methods to tests parts of my code by putting "@Test" before the method I declare. 
