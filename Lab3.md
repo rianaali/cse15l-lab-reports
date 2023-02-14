@@ -14,8 +14,7 @@ Syntax: find [path] -type [type]
 * Example 1: Finding directories only
 
   Commmand:
-` find -type d 
-`
+` find -type d `
 
   Output:
 ``
