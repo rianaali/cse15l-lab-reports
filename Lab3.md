@@ -2,10 +2,9 @@
 #### Below we will explore four different ways we can use the "-find" terminal command which uses the syntax:
 `find [path] [expression]`
 
-#### In all examples we will be working within the skill-demo1-data directory of written_2 within the ssh server
+#### In all examples we will be working within the skill-demo1-data directory of written_2 within the ssh server 
 
-*All commands were found using chatGBT, this is a link to the copy of the chat:
-https://docs.google.com/document/d/1hYW7CyUJ-t4eKVQHVktVMLhEMzHA57P4zT7Q97ptr8o/edit?usp=sharing
+*All commands were found using chatGBT [click here for a link to the copy of the chat](https://docs.google.com/document/d/1hYW7CyUJ-t4eKVQHVktVMLhEMzHA57P4zT7Q97ptr8o/edit?usp=sharing)
 
 ## The -type expression 
 -type finds files of a certain type
@@ -483,5 +482,4 @@ Syntax: find [path] \( [expression1] -and [expression2] \)
 ./written_2/travel_guides/berlitz1/WhereToJapan.txt
 ./written_2/travel_guides/berlitz1/WhereToMalaysia.txt``
 
-*All commands were found using chatGBT, here is a link to the copy of the chat:
-https://docs.google.com/document/d/1hYW7CyUJ-t4eKVQHVktVMLhEMzHA57P4zT7Q97ptr8o/edit?usp=sharing
+*All commands were found using chatGBT [click here for a link to the copy of the chat](https://docs.google.com/document/d/1hYW7CyUJ-t4eKVQHVktVMLhEMzHA57P4zT7Q97ptr8o/edit?usp=sharing)
