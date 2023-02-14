@@ -338,8 +338,10 @@ Syntax: find [path] -type [type]
 
 ## The -size expression
 
-Syntax: find [path] -size [size]
 -size finds a file based on its size 
+
+Syntax: find [path] -size [size]
+
 * Example 1: Finding files over 100 kilobytes 
   
   Command: `find -size +100k`
