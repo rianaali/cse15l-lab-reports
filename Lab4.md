@@ -62,10 +62,11 @@
 6. Commit and push the resulting change to your Github account (you can pick any commit message!)
   ![Image](lab4screen5.png)
     
-  #### Keys Pressed: 
+ #### Keys Pressed: 
       ``<up><up><up><up><up><up><enter>``
   
-   #### Summary: 
+  
+ #### Summary: 
     To run the commands "git add ListExamples.class" and "git commit -m "fixed index 1 to index 2 bug"", I also used my search history. The git 
     add command was up 6 in my search history, so I pressed the error key 6 times. I accesed the git message command in the same way.
   
