@@ -23,12 +23,43 @@
   
     #### Keys Pressed: 
     ``<up><up><up><up><up><enter>``
-    ``<up><up><up><up><up><enter>``
   
     #### Summary: 
-     The javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java command was 5 up in the search history. I used up arrow key 4 times  
+     The javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java command was 5 up in the search history. I used up arrow key 5 times  
      in order to access then enter it. Similarly, the java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore      
-    ListExamplesTest command was 4 up in the history, so I accessed and ran it in the same way.
+    ListExamplesTest command was 5 up in the history, so I accessed and ran it in the same way.
+
+4. Edit the code file to fix the failing test
+![Image](labscreen4.png)
+![Image](labscreen0.png)
+
+    #### Keys Pressed: 
+    ``<Ctrl + R> <v> <enter> <down>(held dow until row 43) <right>(held down until column 12) <backspace> <i> <2> <esc> <:wq> <enter>``
+    
+     #### Summary:
+     To edit the code and fix the bug, I used vim. FIrst I search for the command vim ListExamples.java, which I had used previously, in order 
+     to access it more efficiently. After entering vim, I scrolled down to the error, editing index1 to index2 on row 43, column 12. I then  
+     pressed escape and saved my changes.
+    
+    
+5. Run the tests, demonstrating that they now succeed
+  ![Image](labscreen6.png)
+    #### Keys Pressed: 
+    ``<up><up><up><enter>``
+  
+    #### Summary: 
+    I ran the same commands in step 3 to rerun the tests, where javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java was now up 3 
+    in my search history and java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTest was then up 3 
+    as well.
+  
+6. Commit and push the resulting change to your Github account (you can pick any commit message!)
+  ![Image](labscreen5.png)
+    #### Keys Pressed: 
+      ``<up><up><up><up><up><up><enter>``
+  
+    #### Summary: 
+    To run the commands "git add ListExamples.class" and "git commit -m "fixed index 1 to index 2 bug"", I also used my search history. The git 
+    add command was up 6 in my search history, so I pressed the error key 6 times. I accesed the git message command in the same way.
   
 
   
