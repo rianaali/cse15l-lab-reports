@@ -30,8 +30,10 @@
     ListExamplesTest command was 5 up in the history, so I accessed and ran it in the same way.
 
 4. Edit the code file to fix the failing test
-![Image](labscreen4.png)
-![Image](labscreen0.png)
+
+![Image](lab4screen4.png)
+
+![Image](lab4screen0.png)
 
     #### Keys Pressed: 
     ``<Ctrl + R> <v> <enter> <down>(held dow until row 43) <right>(held down until column 12) <backspace> <i> <2> <esc> <:wq> <enter>``
@@ -43,7 +45,7 @@
     
     
 5. Run the tests, demonstrating that they now succeed
-  ![Image](labscreen6.png)
+  ![Image](lab4screen6.png)
     #### Keys Pressed: 
     ``<up><up><up><enter>``
   
