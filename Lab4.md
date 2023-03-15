@@ -11,6 +11,7 @@
   
 2. Clone your fork of the repository from your Github account
   ![Image](lab4screen2.png)
+    
     #### Keys Pressed: 
     ``<Ctrl + V> <enter>``
   
@@ -48,6 +49,7 @@
     
 5. Run the tests, demonstrating that they now succeed
   ![Image](lab4screen6.png)
+    
     #### Keys Pressed: 
     ``<up><up><up><enter>``
   
@@ -58,6 +60,7 @@
   
 6. Commit and push the resulting change to your Github account (you can pick any commit message!)
   ![Image](lab4screen5.png)
+    
     #### Keys Pressed: 
       ``<up><up><up><up><up><up><enter>``
   
