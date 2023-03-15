@@ -15,7 +15,7 @@
     ``<Ctrl + V> <enter>``
   
     #### Summary: 
-   For this first task, I simply pasted the command which clones the lab7 repository I have previously forked. The command was already copied on 
+   For the second task, I simply pasted the command which clones the lab7 repository I have previously forked. The command was already copied on 
    my computer's clipboard.
   
 3. Run the tests, demonstrating that they fail
@@ -35,9 +35,11 @@
 
 ![Image](lab4screen0.png)
 
+
     #### Keys Pressed: 
     ``<Ctrl + R> <v> <enter> <down>(held dow until row 43) <right>(held down until column 12) <backspace> <i> <2> <esc> <:wq> <enter>``
-    
+   
+   
      #### Summary:
      To edit the code and fix the bug, I used vim. FIrst I search for the command vim ListExamples.java, which I had used previously, in order 
      to access it more efficiently. After entering vim, I scrolled down to the error, editing index1 to index2 on row 43, column 12. I then  
@@ -55,7 +57,7 @@
     as well.
   
 6. Commit and push the resulting change to your Github account (you can pick any commit message!)
-  ![Image](labscreen5.png)
+  ![Image](lab4screen5.png)
     #### Keys Pressed: 
       ``<up><up><up><up><up><up><enter>``
   
