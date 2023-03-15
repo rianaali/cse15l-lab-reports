@@ -46,8 +46,7 @@
      To edit the code and fix the bug, I used vim. First I search for the command vim ListExamples.java, which I had used previously, in order 
      to access it more efficiently. After entering vim, I scrolled down to the error, editing index1 to index2 on row 43, column 12. I then  
      pressed escape and saved my changes.
-    
-    
+     
 5. Run the tests, demonstrating that they now succeed
   ![Image](lab4screen6.png)
     
