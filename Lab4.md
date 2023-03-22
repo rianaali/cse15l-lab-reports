@@ -4,7 +4,7 @@
  ![Image](lab4screen1.png)
   
 #### Keys Pressed: 
-    `<up> <enter>`
+    ``<up> <enter>``
   
  #### Summary: 
 For this first task, the command to log into my ssh account (cs15lwi23zz@ieng6.ucsd.edu), was one up my search history. As a result, I used     the  arrow key once then pressed enter. Since I generated an SSH key on my computer as well, I automated my login and was not prompted for a     password.
