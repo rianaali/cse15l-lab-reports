@@ -1,6 +1,6 @@
 # Lab 4: Running through challenge tasks
 #### Below I will summarize the keys pressed to speed up the challenge tasks listed in Week 7's Lab
-1. Log into ieng6
+1 - Log into ieng6
 ![Image](lab4screen1.png)
 
 ### Keys Pressed: ### 
@@ -9,7 +9,7 @@
 ### Summary:
 For this first task, the command to log into my ssh account (cs15lwi23zz@ieng6.ucsd.edu), was one up my search history. As a result, I used the  arrow key once then pressed enter. Since I generated an SSH key on my computer as well, I automated my login and was not prompted for a password.
 
-2. Clone your fork of the repository from your Github account
+2 - Clone your fork of the repository from your Github account
 ![Image](lab4screen2.png)
 
 ### Keys Pressed: 
@@ -20,7 +20,7 @@ For this first task, the command to log into my ssh account (cs15lwi23zz@ieng6.u
 For the second task, I simply pasted the command which clones the lab7 repository I have previously forked. The command was already copied on 
 my computer's clipboard.
 
-3. Run the tests, demonstrating that they fail
+3 - Run the tests, demonstrating that they fail
 ![Image](labscreen3.png)
 
 ### Keys Pressed: ### 
@@ -31,7 +31,7 @@ The javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java command wa
 in order to access then enter it. Similarly, the java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore      
 ListExamplesTest command was 5 up in the history, so I accessed and ran it in the same way.
 
-4. Edit the code file to fix the failing test
+4 - Edit the code file to fix the failing test
 
 ![Image](lab4screen4.png)
 
@@ -47,7 +47,7 @@ To edit the code and fix the bug, I used vim. First I search for the command vim
 to access it more efficiently. After entering vim, I scrolled down to the error, editing index1 to index2 on row 43, column 12. I then  
 pressed escape and saved my changes.
 
-5. Run the tests, demonstrating that they now succeed
+5 - Run the tests, demonstrating that they now succeed
 ![Image](lab4screen6.png)
 
 ### Keys Pressed:  ###
@@ -58,7 +58,7 @@ I ran the same commands in step 3 to rerun the tests, where javac -cp .:lib/hamc
 in my search history and java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTest was then up 3 
 as well.
 
-6. Commit and push the resulting change to your Github account (you can pick any commit message!)
+6 - Commit and push the resulting change to your Github account (you can pick any commit message!)
 ![Image](lab4screen5.png)
 
 ### Keys Pressed:  ###
