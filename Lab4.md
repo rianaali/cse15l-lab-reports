@@ -13,7 +13,7 @@ For this first task, the command to log into my ssh account (cs15lwi23zz@ieng6.u
   ![Image](lab4screen2.png)
     
   #### Keys Pressed: 
-    `<Ctrl + V> <enter>``
+    `<Ctrl + V> <enter>`
   
   
   #### Summary: 
