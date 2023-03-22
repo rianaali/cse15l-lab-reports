@@ -24,8 +24,7 @@ my computer's clipboard.
 ![Image](labscreen3.png)
 
 ### Keys Pressed: ### 
-``
-<up><up><up><up><up><enter>``
+``<up><up><up><up><up><enter>``
 
 ### Summary:  ###
 The javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java command was 5 up in the search history. I used up arrow key 5 times  
@@ -40,8 +39,7 @@ ListExamplesTest command was 5 up in the history, so I accessed and ran it in th
 
 
 ### Keys Pressed:  ###
-``
-<Ctrl + R> <v> <enter> <down>(held dow until row 43) <right>(held down until column 12) <backspace> <i> <2> <esc> <:wq> <enter>``
+``<Ctrl + R> <v> <enter> <down>(held dow until row 43) <right>(held down until column 12) <backspace> <i> <2> <esc> <:wq> <enter>``
 
 
 ### Summary:  ###
@@ -53,8 +51,7 @@ pressed escape and saved my changes.
 ![Image](lab4screen6.png)
 
 ### Keys Pressed:  ###
-``
-<up><up><up><enter>``
+``<up><up><up><enter>``
 
 ### Summary:  ###
 I ran the same commands in step 3 to rerun the tests, where javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java was now up 3 
@@ -65,8 +62,7 @@ as well.
 ![Image](lab4screen5.png)
 
 ### Keys Pressed:  ###
-``
-<up><up><up><up><up><up><enter>``
+``<up><up><up><up><up><up><enter>``
 
 
 ### Summary:  ###
