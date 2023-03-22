@@ -13,7 +13,7 @@ For this first task, the command to log into my ssh account (cs15lwi23zz@ieng6.u
   ![Image](lab4screen2.png)
     
   #### Keys Pressed: 
-    `<Ctrl + V> <enter>`
+    ``<Ctrl + V> <enter>``
   
   
   #### Summary: 
@@ -24,7 +24,7 @@ For this first task, the command to log into my ssh account (cs15lwi23zz@ieng6.u
   ![Image](labscreen3.png)
   
   #### Keys Pressed: 
-    `<up><up><up><up><up><enter>`
+    ``<up><up><up><up><up><enter>``
   
   #### Summary: 
    The javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java command was 5 up in the search history. I used up arrow key 5 times  
